@@ -23,6 +23,17 @@ You can use the following resources if you want to build a -
 ML and Mathematics - 
 
 Yes you need to have a basic understanding of maths to learn machine learning. Nothing crazy, just refer you're high school/first year text books to brush up the following things -
-  1. Algebra.
+  1. Linear Algebra.
   2. Probablity.
   3. Differentiation.
+
+The Learning Algorithms - 
+
+Now comes the major part. You need to understand the various learning algorithms to understand the underlying logic behind various apps. Some learning algorithms are - 
+  1. Linear Regression.
+  2. Logistic Regression.
+  3. Kmeans and KNN's.
+  4. Random forests and SVM's. 
+  5. Decision Trees.
+  6. Naive Bayes.
+  7. Deep Learning and Neural Nets.
