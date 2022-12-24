@@ -13,9 +13,16 @@ If you are looking to get a good grip on python https://automatetheboringstuff.c
 Also python for everybody has a good playlist if you don't like reading books: https://www.py4e.com/.
 
 NEXT STEPS- 
-You can use you're freshly acquired python to build anything cool like a website, game or chatbot. If you want to build something push it to github and opensource. 
+You can use you're freshly acquired python to build anything cool like a website, game or chatbot. If you want to build something push it to github and opensource it. 
 
 You can use the following resources if you want to build a -
   1. Website - Django(https://docs.djangoproject.com/en/4.1/), Flask(https://flask.palletsprojects.com/en/2.2.x/),FastAPI(https://fastapi.tiangolo.com/).
   2. Chatbot - RASA(https://rasa.com/docs/rasa/).
   3. Game - Pygame(https://www.pygame.org/docs/).
+
+ML and Mathematics - 
+
+Yes you need to have a basic understanding of maths to learn machine learning. Nothing crazy, just refer you're high school/first year text books to brush the following things -
+  1. Algebra.
+  2. Probablity.
+  3. Differentiation.
