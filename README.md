@@ -37,3 +37,15 @@ Now comes the major part. You need to understand the various learning algorithms
   5. Decision Trees.
   6. Naive Bayes.
   7. Deep Learning and Neural Nets.
+and the list goes on. 
+
+Checkout this repo for understanding various algorithms: https://github.com/ujjwalkarn/Machine-Learning-Tutorials.
+For understanding deep learning algorithms you can take a look at: http://d2l.ai/.
+
+Try to implement the algorithms you have now learnt using vanilla python and -
+  1. Numpy(https://numpy.org/doc/).
+  2. Pandas(https://pandas.pydata.org/docs/).
+  3. Matplotlib(https://matplotlib.org/stable/index.html).
+
+BUILDING YOU'RE PROJECT - 
+
