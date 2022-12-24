@@ -22,7 +22,7 @@ You can use the following resources if you want to build a -
 
 ML and Mathematics - 
 
-Yes you need to have a basic understanding of maths to learn machine learning. Nothing crazy, just refer you're high school/first year text books to brush the following things -
+Yes you need to have a basic understanding of maths to learn machine learning. Nothing crazy, just refer you're high school/first year text books to brush up the following things -
   1. Algebra.
   2. Probablity.
   3. Differentiation.
