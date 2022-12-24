@@ -7,4 +7,5 @@ So to start with it you need to have a basic understanding of python and concept
   1. variables, conditionals, loops etc. 
   2. writing functions and using decorators.
   3. object oriented programming.
-If you are looking to get a good grip on python automate the boring stuff with python is a good resource: 
+If you are looking to get a good grip on python https://automatetheboringstuff.com/ is a good resource.
+Also python for everybody has a good playlist if you don't like reading books: https://www.py4e.com/.
