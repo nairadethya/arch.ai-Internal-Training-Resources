@@ -16,6 +16,6 @@ NEXT STEPS-
 You can use you're freshly acquired python to build anything cool like a website, game or chatbot. If you want to build something push it to github and opensource. 
 
 You can use the following resources if you want to build a -
-    1. Website - Django(https://docs.djangoproject.com/en/4.1/), Flask(https://flask.palletsprojects.com/en/2.2.x/),FastAPI(https://fastapi.tiangolo.com/).
-    2. Chatbot - RASA(https://rasa.com/docs/rasa/).
-    3. Game - Pygame(https://www.pygame.org/docs/).
+  1. Website - Django(https://docs.djangoproject.com/en/4.1/), Flask(https://flask.palletsprojects.com/en/2.2.x/),FastAPI(https://fastapi.tiangolo.com/).
+  2. Chatbot - RASA(https://rasa.com/docs/rasa/).
+  3. Game - Pygame(https://www.pygame.org/docs/).
